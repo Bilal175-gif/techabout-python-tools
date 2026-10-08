@@ -1,0 +1,32 @@
+[
+  {
+    "sku": "TX-001",
+    "product": "Toilet Tissue Roll",
+    "price_pkr": "85",
+    "stock": "1200"
+  },
+  {
+    "sku": "TX-002",
+    "product": "Paper Towel",
+    "price_pkr": "150",
+    "stock": "800"
+  },
+  {
+    "sku": "HW-001",
+    "product": "Hand Wash 1L",
+    "price_pkr": "350",
+    "stock": "500"
+  },
+  {
+    "sku": "SN-001",
+    "product": "Hand Sanitizer 500ml",
+    "price_pkr": "300",
+    "stock": "650"
+  },
+  {
+    "sku": "FL-001",
+    "product": "Floor Cleaner 1L",
+    "price_pkr": "280",
+    "stock": "400"
+  }
+]

@@ -1,0 +1,7 @@
+url,status,final_url,time_s,error
+https://www.example.com,200,https://www.example.com,1.48,
+https://www.example.com/this-page-does-not-exist-12345,404,https://www.example.com/this-page-does-not-exist-12345,1.49,
+http://github.com,200,https://github.com/,8.89,
+https://pakmultilinks.com,200,https://www.pakmultilinks.com/,2.12,
+https://www.google.com,200,https://www.google.com,1.5,
+https://no-such-domain-xyz12345abc.com,ERROR,https://no-such-domain-xyz12345abc.com,1.11,RemoteDisconnected

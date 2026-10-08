@@ -1,0 +1,11 @@
+name,email
+Ahmed Khan,ahmed.khan@example.com
+Sara Malik,sara.malik@gmail.com
+Bad Entry 1,not-an-email
+Usman Tariq,usman.tariq@yahoo.com
+Bad Entry 2,missing-at-sign.com
+Ayesha Raza,ayesha.raza@company.pk
+Bad Entry 3,user@.com
+Bilal Ahmed,bilal.ahmed@outlook.com
+Bad Entry 4,double@@at.com
+Hina Shah,hina.shah@example.org

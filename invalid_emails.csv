@@ -1,0 +1,5 @@
+name,email
+Bad Entry 1,not-an-email
+Bad Entry 2,missing-at-sign.com
+Bad Entry 3,user@.com
+Bad Entry 4,double@@at.com

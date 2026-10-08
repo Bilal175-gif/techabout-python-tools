@@ -1,0 +1,9 @@
+# Sample URL list for url_status_checker.py
+# One URL per line. Blank lines and lines starting with # are ignored.
+
+https://www.example.com
+https://www.example.com/this-page-does-not-exist-12345
+http://github.com
+https://pakmultilinks.com
+https://www.google.com
+https://no-such-domain-xyz12345abc.com
